@@ -1,9 +1,9 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTM5NDk4NjU5NzAwNjU3Nzc3Ng.GoJdcE.rKvpuDbJ2u2RPhgMXEwxlJX49wEqqhe-ViQgSM",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
+  ownerID: ["1307248542712205344", ""], 
   mongodbUri : "mongodb+srv://nikhil:<db_password>@unnati.c2vjrtb.mongodb.net/?retryWrites=true&w=majority&appName=Unnati",
   spotifyClientId : "",
   spotifyClientSecret : "",
